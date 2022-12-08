@@ -1,3 +1,5 @@
+The official code of paper [CEP3: Community Event Prediction with Neural Point Process on Graph](https://openreview.net/forum?id=sfc0rjCBqS_)
+
 Please first install MPI on your machine:
 <https://www.open-mpi.org/software/ompi/v4.1/>
 
